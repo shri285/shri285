@@ -1,7 +1,7 @@
 ## Hello, I'm Shreeya!
 
 - I'm a freshman at Khan Lab School
-- Currently learning Python (OOP), web development, and foundational biology/chemistry
-- Building small projects that combine storytelling, structure, and engineering
-- I enjoy creating clean, minimal, and scalable Notion systems and content workflows
-- Exploring neuroscience and gaze vector research
+- I have tasken Python (OOP), web development, and foundational biology/chemistry in the past
+- I am currently exploring neuroscience and LLM research
+- Fun Fact: organizing notion is a weekly ritual I do to relax
+- Ask me anything on the neuroscience of studying!
